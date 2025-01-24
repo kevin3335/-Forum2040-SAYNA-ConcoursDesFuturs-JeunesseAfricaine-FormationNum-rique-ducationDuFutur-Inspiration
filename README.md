@@ -19,9 +19,3 @@ Ce projet propose une vision de l'école en 2040, transformée par les technolog
 ## Utilisation
 - **Lire** : Comprendre la vision de l'éducation en 2040.
 - **S'inspirer** : Base pour présentations et recherches.
-- **Présenter** : Partager dans des forums ou événements sur l'innovation.
-
-## Suggestions
-- Ajouter plus d'illustrations.
-- Développer des scénarios concrets.
-- Inclure des témoignages fictifs d'étudiants ou d'enseignants.
